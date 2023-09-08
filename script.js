@@ -1,8 +1,14 @@
 function compare(a, b) {
-  if (a["# of Courses Completed"] > b["# of Courses Completed"]) {
+  if ((a["# of Courses Completed"] + a["# of Skill Badges Completed"] + a["# of GenAI Game Completed"]) > (b["# of Courses Completed"] + b["# of Skill Badges Completed"] + b["# of GenAI Game Completed"])) {
     return -1;
   }
-  if (a["# of Courses Completed"] < b["# of Courses Completed"]) {
+  if ((a["# of Courses Completed"] + a["# of Skill Badges Completed"] + a["# of GenAI Game Completed"]) < (b["# of Courses Completed"] + b["# of Skill Badges Completed"] + b["# of GenAI Game Completed"])) {
+    return 1;
+  }
+  if (a["Redemption Status"] === "Yes" && b["Redemption Status"] === "No") {
+    return -1;
+  }
+  if (a["Redemption Status"] === "No" && b["Redemption Status"] === "Yes") {
     return 1;
   }
   return 0;
