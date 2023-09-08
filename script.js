@@ -15,7 +15,7 @@ function compare(a, b) {
 }
 
 const updateData = async (filter) => {
-  let data = await (await fetch("./data.json", { cache: 'no-store' })).json();
+  let data = await (await fetch("./data.json")).json();
   let total_started = 0;
   if (filter !== "") {
     data = data.filter((el) => {
@@ -29,7 +29,7 @@ const updateData = async (filter) => {
     total_started += d["Redemption Status"] === "Yes" ? 1 : 0;
     html += `<tr>
                 <th>${i + 1}</th>
-                <td><a href="${
+                <td><a style="text-decoration: none;" href="${
                   d["Google Cloud Skills Boost Profile URL"]
                 }" target="_blank" style="color:black;">${
       d["Student Name"]
