@@ -15,7 +15,8 @@ function compare(a, b) {
 }
 
 const updateData = async (filter) => {
-  let data = await (await fetch("./data.json")).json();
+  let url = "./data/data.json"
+  let data = await (await fetch(url)).json();
   let total_started = 0;
   if (filter !== "") {
     data = data.filter((el) => {
