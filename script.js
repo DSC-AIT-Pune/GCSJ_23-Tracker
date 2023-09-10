@@ -15,7 +15,7 @@ function compare(a, b) {
 }
 
 const updateData = async (filter) => {
-  let url = "./data/data.json"
+  let url = "https://script.google.com/macros/s/AKfycbwmXZDgFKrOq2Toc_HwIvHuN9INTg-RisuaIp3hSfV3SlTiy2aZnI2ATnkDLn6CUydb/exec"
   let data = await (await fetch(url)).json();
   let total_started = 0;
   if (filter !== "") {
