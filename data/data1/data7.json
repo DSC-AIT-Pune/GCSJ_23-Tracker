@@ -1,17 +1,5 @@
 [
     {
-        "Student Name": "Student Name",
-        "Institution": "Institution",
-        "Enrolment Date & Time": "Enrolment Date & Time",
-        "Enrolment Status": "Enrolment Status",
-        "Google Cloud Skills Boost Profile URL": "Google Cloud Skills Boost Profile URL",
-        "# of Courses Completed": "# of Courses Completed",
-        "# of Skill Badges Completed": "# of Skill Badges Completed",
-        "# of GenAI Game Completed": "# of GenAI Game Completed",
-        "Total Completions of both Pathways": "Total Completions of both Pathways",
-        "Redemption Status": "Redemption Status"
-    },
-    {
         "Student Name": "Nikhil Dhariwal",
         "Institution": "Army Institute of Technology - Pune",
         "Enrolment Date & Time": "Fri Sep 01 2023 18:52:15 GMT+0530 (GMT+05:30)",
@@ -101,7 +89,7 @@
         "Enrolment Date & Time": "Fri Sep 01 2023 19:03:20 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/536b5344-abe5-4962-901b-0144217e67dc",
-        "# of Courses Completed": "1",
+        "# of Courses Completed": "0",
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
@@ -593,8 +581,8 @@
         "Enrolment Date & Time": "Fri Sep 01 2023 22:51:34 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2c9b2677-a5e5-4431-8bb8-e67bb1c1f02f",
-        "# of Courses Completed": "4",
-        "# of Skill Badges Completed": "2",
+        "# of Courses Completed": "3",
+        "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
@@ -835,7 +823,7 @@
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/782fe7f5-b7fa-45fe-8b87-9b22e1c54324",
         "# of Courses Completed": "0",
         "# of Skill Badges Completed": "0",
-        "# of GenAI Game Completed": "1",
+        "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
     },
@@ -873,7 +861,7 @@
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
+        "Redemption Status": "No"
     },
     {
         "Student Name": "DHRUV RAJ SINGH",
@@ -942,9 +930,9 @@
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8f5aaf8b-b9a6-497e-aef5-283b4626540c",
         "# of Courses Completed": "4",
-        "# of Skill Badges Completed": "4",
+        "# of Skill Badges Completed": "3",
         "# of GenAI Game Completed": "1",
-        "Total Completions of both Pathways": "Yes",
+        "Total Completions of both Pathways": "No",
         "Redemption Status": "Yes"
     },
     {
@@ -1017,7 +1005,7 @@
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
+        "Redemption Status": "No"
     },
     {
         "Student Name": "Vishal Suthar",
@@ -1027,9 +1015,9 @@
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bef153aa-53c2-4160-8379-b72a182c138b",
         "# of Courses Completed": "0",
         "# of Skill Badges Completed": "0",
-        "# of GenAI Game Completed": "1",
+        "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status": "Yes"
+        "Redemption Status": "No"
     },
     {
         "Student Name": "Vikrant Singh",
@@ -1145,7 +1133,7 @@
         "Enrolment Date & Time": "Sat Sep 02 2023 00:55:59 GMT+0530 (GMT+05:30)",
         "Enrolment Status": "All Good",
         "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b826fc5d-2eea-432a-af64-9b5da54cedbd",
-        "# of Courses Completed": "4",
+        "# of Courses Completed": "2",
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
